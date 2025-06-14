@@ -4,7 +4,7 @@ A Flask-based web application that helps users verify the authenticity of websit
 
 ---
 
-## 📌 Features
+  Features
 - 🌐 Check website's domain registration info (WHOIS)
 - 🔒 Verify if SSL certificate is valid
 - ✅ Get HTTP status response (e.g., 200 OK, 404 Not Found)
@@ -12,16 +12,16 @@ A Flask-based web application that helps users verify the authenticity of websit
 
 ---
 
-## 🛠️ Built With
-- Python 🐍
-- Flask 🌶️
+ Built With
+- Python 
+- Flask 🌶
 - WHOIS module
 - Requests module
 - SSL (via socket module)
 
 ---
 
-## ⚙️ How to Run This Project
+ How to Run This Project
 
 1. **Clone the repo:**
 ```bash
@@ -42,18 +42,18 @@ python app.py
 
 ---
 
-## 📚 Project Description
+##  Project Description
 This project was developed as part of academic learning to explore basic web security techniques. It uses domain WHOIS info and SSL certificate validation to detect whether a given website is genuine or potentially fake. Ideal for beginner cybersecurity and Python learners.
 
 ---
 
-## 👨‍🎓 Developed By
+##  Developed By
 **Dikshant Kamble**  
 
 
 ---
 
-## 📫 Contact
+##  Contact
 📧 Email: deekshant.kamble@gmail.com  
 🔗 LinkedIn: [linkedin.com/in/dikshant-kamble-4b153b211](https://www.linkedin.com/in/dikshant-kamble-4b153b211)
 
